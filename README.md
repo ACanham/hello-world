@@ -1,2 +1,2 @@
 # hello-world
-just learning a bit of Git
+just learning a bit (more) of Git(Hub)
